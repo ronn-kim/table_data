@@ -1,0 +1,21 @@
+Highschool...
+
+branches=>id, name, address, contact, capacity
+
+bod=>Id, Name, Phone _NUMBER, Address, Position
+
+staff=>Id, Name ,Phone _Number, Address, position
+
+students=>Student id, Class, Age, dorm name
+
+classes=>Id, Classroom _Id, Subject, teacher _Id, Time
+
+teachers=>Teacher _id, Name, Title, Class, Subject _Id
+
+classrooms=>Classroom _Id, capacity, Teachers _name
+
+stores=>Item _Id, Item _Name, Item _Quantity
+
+dorms=>Dorm _name, Dorm _capacity, Staff _id, Student _id, student _name
+
+games=>game _id, Game _name, teacher _name, student _name, capacity
